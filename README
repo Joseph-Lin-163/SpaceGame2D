@@ -1,0 +1,24 @@
+This is my Space game for 2D.
+Built on Unity3D.
+
+Many of the functionality works:
+1. Scene Transitions
+2. Player movement
+3. AI, etc.
+
+Add to build settings Main Menu and Week 6
+To begin, load Main Menu and use mouse to press play (blue button)
+Use wasd to move player ship and space bar to shoot
+
+Some things are not in order:
+1. GUIText alignment (this works fine on a 1920x1080 resolution monitor)
+2. Buttons for High Score, Options, and Quit
+3. Options menu (ESC Key) while in game mode
+
+These will need to be implemented later on down the road.
+
+Special Thanks to Rick Strom for providing a lot of the assets, 
+animations, music, etc. I would not have the assets to begin this
+project without you, otherwise.
+
+Authored by Joseph Lin
